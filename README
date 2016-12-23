@@ -1,0 +1,21 @@
+README COS350 HOMEWORK 4
+
+The program takes an input of values which denote the starting location and "slides" that allow a character to move
+between islands. The algorithm produces a pathway that calculates the longest path that starts and ends at the starting
+location. 
+
+The program should work to specifications
+
+I tested my input with
+	1 2 2 3 1 3 2 4 5 4 3 1
+	
+	Resulting in the correct output:
+	
+	3
+	1
+	2
+	3
+	1
+	
+The input needs to be whitespace delimited but will accept any key value that is a string, also there
+needs to be an even number of whitespace delimited values.
